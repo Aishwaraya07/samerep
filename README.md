@@ -6,3 +6,6 @@ audio
 monitor
 cpu
 keypad
+lapatop
+windows
+os
